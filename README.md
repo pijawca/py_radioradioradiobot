@@ -1,4 +1,4 @@
-# RADIORADIORADIO 
+# RADIORADIORADIOBOT
 Бот который за Вас, найдет нужную вам радиостанцию.
 
 ## Установка
